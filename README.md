@@ -2,6 +2,10 @@
 
 Welcome to the Fuzzy Tsukamoto Production System Web App! This application implements the Fuzzy Tsukamoto method to calculate production levels based on demand and stock levels using fuzzy logic principles. The web app is built using Python and Streamlit, providing an intuitive user interface to interact with the fuzzy logic system.
 
+## Authors
+
+- [@clavinorach](https://www.github.com/clavinorach)
+
 ## Features
 
 - 📊 Input Parameters: Easily input minimum and maximum values for demand, stock, and production.
