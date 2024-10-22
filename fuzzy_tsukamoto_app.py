@@ -45,7 +45,7 @@ def fuzzy_tsukamoto(min_demand, max_demand, min_stock, max_stock, min_production
 
 # Set page configuration and theme
 st.set_page_config(
-    page_title="Fuzzy Tsukamoto Production System",
+    page_title="Fuzzy Tsukamoto Production System Web App",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -92,7 +92,7 @@ st.markdown(
 )
 
 # Main heading
-st.title("🤖 Fuzzy Tsukamoto Production System")
+st.title("🤖 Fuzzy Tsukamoto Production System Web App")
 
 st.markdown("""
     <div style='text-align: left; margin-top: -15px; font-size: 14px; font-style: italic; color: #f39c12;'>
