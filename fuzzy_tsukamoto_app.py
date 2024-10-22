@@ -99,7 +99,7 @@ st.markdown("""
         Developed by Achmad Ardani Prasha, Clavino Ourizqi Rachmadi, Hilman Syachr Ramadhan
     </div>
     <div style='text-align: left; margin-top:  5px; font-size: 14px; font-style: italic; color: #f39c12;'>
-        Introduction to Artificial Intellegence - Mercu Buana University
+        Introduction to Artificial Intelliegence - Mercu Buana University
     </div>
     """, unsafe_allow_html=True)
 
