@@ -41,16 +41,10 @@ Install the required Python packages:
 pip install -r requirements.txt
 ```
 
-### 3. Copy the .env File
-Copy the .env.example file to create a new .env file:
+### 3. Run the app
+Run the Streamlit web app:
 ```bash
 streamlit run fuzzy_tsukamoto_app.py
 ```
 
-### 4. Run the app
-Run the Streamlit web app:
-```bash
-php artisan key:generate
-```
-
-### 5. Open the app in your web browser at http://localhost:8501
+### 4. Open the app in your web browser at http://localhost:8501
